@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.41605df3.css",
-    "main.js": "/static/js/main.6165be52.js",
-    "index.html": "/index.html",
-    "main.41605df3.css.map": "/static/css/main.41605df3.css.map",
-    "main.6165be52.js.map": "/static/js/main.6165be52.js.map"
+    "main.css": "/teravin-test/static/css/main.41605df3.css",
+    "main.js": "/teravin-test/static/js/main.6165be52.js",
+    "index.html": "/teravin-test/index.html",
+    "main.41605df3.css.map": "/teravin-test/static/css/main.41605df3.css.map",
+    "main.6165be52.js.map": "/teravin-test/static/js/main.6165be52.js.map"
   },
   "entrypoints": [
     "static/css/main.41605df3.css",
